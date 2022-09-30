@@ -14,9 +14,10 @@ Once Flutter is installed properly, fetch this repository.
 
     git clone github.com/athy125/Bite_flutter_app
 
-Next, move to the repository source of the project open in VScode and install all packages.
+Next, move to the repository source of the project open in VScode some packages will be installed automatically, else the manual command to do it is below.
 
     cd $PATH
+   run flutter pub get
 
 Lastly, after the installtion of the packages, type the following command
 
