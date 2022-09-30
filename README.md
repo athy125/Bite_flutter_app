@@ -17,7 +17,9 @@ Once Flutter is installed properly, fetch this repository.
 Next, move to the repository source of the project open in VScode some packages will be installed automatically, else the manual command to do it is below.
 
     cd $PATH
-    flutter pub get
+    
+Manual Command to install packages. Run the command in your Terminal
+    `flutter pub get`
 
 Lastly, after the installtion of the packages, type the following command
 
