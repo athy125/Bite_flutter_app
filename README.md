@@ -16,7 +16,7 @@ Once Flutter is installed properly, fetch this repository.
 
 Next, move to the repository source of the project open in VScode and install all packages.
 
-    cd $PATH/[Your_Path]
+    cd $PATH
 
 Lastly, after the installtion of the packages, type the following command
 
