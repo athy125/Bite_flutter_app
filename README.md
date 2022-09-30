@@ -1,2 +1,2 @@
-# Bite_flutter_app
-Bite is a conceptual flutter news app.
+# ⚡ Bite 
+Bite is a conceptual flutter news app made in dart. 
