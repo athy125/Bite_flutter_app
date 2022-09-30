@@ -20,7 +20,7 @@ Next, move to the repository source of the project open in VScode some packages 
     
 Manual Command to install packages. Run the command in your Terminal
     
-`flutter pub get`
+    flutter pub get
 
 Lastly, after the installtion of the packages, type the following command
 
