@@ -1,7 +1,7 @@
 # ⚡ Bite 
 Bite is a conceptual flutter news app made in dart. 
 
-![SS]: https://github.com/athy125/Bite_flutter_app/blob/main/screenshots/Screenshot%202022-09-30%20at%208.25.57%20PM.png "App Home Screen"
+![This is App Home Screen](https://github.com/athy125/Bite_flutter_app/blob/main/screenshots/Screenshot%202022-09-30%20at%208.25.57%20PM.png)
 
 # Setup 
 
